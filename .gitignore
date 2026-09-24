@@ -1,0 +1,10 @@
+.kilo/
+.claude/
+node_modules/
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+dist/
+build/
